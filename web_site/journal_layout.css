@@ -1,0 +1,25 @@
+
+
+#id1
+{
+	border: 5px green solid;
+}
+#h1
+{
+border: 5px red solid;	
+}
+#h2
+{
+	border: 5px orange solid;
+}
+
+.body
+{
+	border: 5px blue solid;
+	
+}
+	
+.date
+{
+	border: 5px purple solid;
+}
